@@ -1,0 +1,1 @@
+// mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes; cd ~/Library/Developer/Xcode/UserData/FontAndColorThemes; curl -O http://developers.enormego.com/assets/egotheme/EGOv2.dvtcolortheme
